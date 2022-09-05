@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Mustafa Cihan
+#### Junior Full-Stack Developer
+I'm an ambitious developer with a passion for software and technology. I'm very eager to learn new technologies. I'm trying to master the language structure and capabilities of Javascript. As a solution-oriented person, I like to research and share. 
 
-I'm Mustafa from Switzerland. I'm an ambitious developer with a passion for software and technology. I'm very eager to learn new technologies. I'm trying to master the language structure and capabilities of Javascript. As a solution-oriented person, I like to research and share. 
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Hicoders. 
+
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mustafa0cihan)](https://github.com/mustafa0cihan/github-readme-stats)
 
