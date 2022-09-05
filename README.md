@@ -8,10 +8,10 @@ Skills: REACT / JS / HTML / CSS
 - 🔭 I’m currently working on Hicoders. 
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mustafa0cihan)]
+[My Github Stats](https://github-readme-stats.vercel.app/api?username=mustafa0cihan)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa0cihan&layout=compact)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa0cihan&layout=compact)
 
 
 <!--
